@@ -2,6 +2,21 @@
   <library name="gson-2.10.1">
     <CLASSES>
       <root url="jar://$PROJECT_DIR$/libraries/gson-2.10.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/fliptables-1.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/jbcrypt-0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/poi-ooxml-5.2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/poi-5.2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/xmlbeans-5.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/commons-io-2.15.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/commons-collections4-4.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/commons-compress-1.25.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/log4j-api-2.22.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/log4j-core-2.22.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/curvesapi-1.08.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/poi-ooxml-lite-5.2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/consoleui-0.0.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/jline-2.14.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/jansi-1.11.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

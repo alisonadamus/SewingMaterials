@@ -1,25 +1,19 @@
 
 g
-java:S1192"KDefine a constant instead of duplicating this literal "Ğ‘Ñ–Ğ»Ğ¸Ğ¹" 4 times.(İ¿é98åè«¼Ó1
+java:S1192"KDefine a constant instead of duplicating this literal "Ğ‘Ñ–Ğ»Ğ¸Ğ¹" 4 times.(İ¿é98ï×ŒÕ1
 m
-java:S1192"KDefine a constant instead of duplicating this literal "Ğ¡Ğ¸Ğ½Ñ–Ğ¹" 3 times.(õ÷Øµşÿÿÿÿ8åè«¼Ó1
+java:S1192"KDefine a constant instead of duplicating this literal "Ğ¡Ğ¸Ğ½Ñ–Ğ¹" 3 times.(õ÷Øµşÿÿÿÿ8ğ×ŒÕ1
 j
-java:S1192"MDefine a constant instead of duplicating this literal "Ğ§Ğ¾Ñ€Ğ½Ğ¸Ğ¹" 5 times.(Ç«Å8åè«¼Ó1
-l
-java:S1192"ODefine a constant instead of duplicating this literal "Ğ‘Ğ°Ğ²Ğ¾Ğ²Ğ½Ğ°" 3 times.(€¿èö8åè«¼Ó1
+java:S1192"MDefine a constant instead of duplicating this literal "Ğ§Ğ¾Ñ€Ğ½Ğ¸Ğ¹" 5 times.(Ç«Å8ñ×ŒÕ1
+q
+java:S1192"ODefine a constant instead of duplicating this literal "Ğ‘Ğ°Ğ²Ğ¾Ğ²Ğ½Ğ°" 3 times.(„‚ªÃûÿÿÿÿ8ñ×ŒÕ1
 h
-java:S1192"KDefine a constant instead of duplicating this literal "ĞÑ‚Ğ»Ğ°Ñ" 3 times.(¤“ê…8åè«¼Ó1
-n
-java:S1192"QDefine a constant instead of duplicating this literal "Ğ§ĞµÑ€Ğ²Ğ¾Ğ½Ğ¸Ğ¹" 3 times.(€¿èö8æè«¼Ó1
-m
-java:S1192"KDefine a constant instead of duplicating this literal "Ğ”ĞµĞ½Ñ–Ğ¼" 3 times.(¬»‘Öşÿÿÿÿ8æè«¼Ó1
-g
-java:S1192"KDefine a constant instead of duplicating this literal "Ğ“Ñ–Ğ¿ÑÑ€" 4 times.(¶¹ª8æè«¼Ó1
+java:S1192"KDefine a constant instead of duplicating this literal "ĞÑ‚Ğ»Ğ°Ñ" 3 times.(¤“ê…8ñ×ŒÕ1
 s
-java:S1192"QDefine a constant instead of duplicating this literal "Ğ¢Ñ€Ğ¸ĞºĞ¾Ñ‚Ğ°Ğ¶" 3 times.(ı‹¾Óûÿÿÿÿ8æè«¼Ó1
-a
-java:S1854
-"DRemove this useless assignment to local variable "sewingFabricList".(»Ëãë8óè«¼Ó1
-R
-java:S1481
-"5Remove this unused "sewingFabricList" local variable.(»Ëãë8øè«¼Ó1
+java:S1192"QDefine a constant instead of duplicating this literal "Ğ§ĞµÑ€Ğ²Ğ¾Ğ½Ğ¸Ğ¹" 3 times.(„‚ªÃûÿÿÿÿ8ñ×ŒÕ1
+m
+java:S1192"KDefine a constant instead of duplicating this literal "Ğ”ĞµĞ½Ñ–Ğ¼" 3 times.(¬»‘Öşÿÿÿÿ8ñ×ŒÕ1
+g
+java:S1192""KDefine a constant instead of duplicating this literal "Ğ“Ñ–Ğ¿ÑÑ€" 4 times.(¶¹ª8ñ×ŒÕ1
+s
+java:S1192"QDefine a constant instead of duplicating this literal "Ğ¢Ñ€Ğ¸ĞºĞ¾Ñ‚Ğ°Ğ¶" 3 times.(ı‹¾Óûÿÿÿÿ8ñ×ŒÕ1

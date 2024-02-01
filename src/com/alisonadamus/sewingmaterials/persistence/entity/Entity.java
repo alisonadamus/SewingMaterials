@@ -1,13 +1,25 @@
 package com.alisonadamus.sewingmaterials.persistence.entity;
 
-import java.util.ArrayList;
-import java.util.List;
+import com.alisonadamus.sewingmaterials.persistence.entityservise.UniqueIDForEntity;
 
+/**
+ * Абстрактний базовий клас для сутностей.
+ */
 public abstract class Entity {
 
-    protected List<String> errors;
+    /**
+     * Унікальний генератор ідентифікаторів для всіх сутностей.
+     */
+    protected static final UniqueIDForEntity uniqueIDForEntity = new UniqueIDForEntity();
+    /**
+     * Унікальний ідентифікатор сутності.
+     */
+    protected String id;
 
+    /**
+     * Конструктор класу Entity, генерує новий унікальний ідентифікатор.
+     */
     protected Entity() {
-        errors = new ArrayList<>();
+        this.id = uniqueIDForEntity.generateNewID();
     }
 }
