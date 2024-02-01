@@ -1,9 +1,0 @@
-
-†
-java:S4165"dRemove this useless assignment; "errors" already holds the assigned value along all execution paths.(ŽÉ¯Òþÿÿÿÿ8œ¯­¾Ó1
-<
-java:S1165"Make this "errors" field final.(Êê™Ý8§ ¬¾Ó1
-K
-java:S1172".Remove this unused method parameter "message".(¬æ»¢8 ¯­¾Ó1
-Q
-java:S1656"/Remove or correct this useless self-assignment.(ŽÉ¯Òþÿÿÿÿ8¢¯­¾Ó1

@@ -1,1 +1,121 @@
-[{"id":1,"name":"Нитка біла(200м)","amount":250,"costPerPiece":9.5,"totalCost":2375.0},{"id":2,"name":"Нитка чорна(200м)","amount":250,"costPerPiece":9.5,"totalCost":2375.0},{"id":3,"name":"Нитка червона(200м)","amount":250,"costPerPiece":9.5,"totalCost":2375.0},{"id":4,"name":"Нитка синя(200м)","amount":250,"costPerPiece":9.5,"totalCost":2375.0},{"id":5,"name":"Нитка бежева(150м)","amount":205,"costPerPiece":7.25,"totalCost":1486.25},{"id":6,"name":"Нитка рожева(150м)","amount":205,"costPerPiece":7.25,"totalCost":1486.25},{"id":7,"name":"Нитка фіолетова(150м)","amount":205,"costPerPiece":7.25,"totalCost":1486.25},{"id":8,"name":"Нитка зелена(150м)","amount":205,"costPerPiece":7.25,"totalCost":1486.25},{"id":9,"name":"Нитка блакитна(150м)","amount":205,"costPerPiece":7.25,"totalCost":1486.25},{"id":10,"name":"Замок-блискавка","amount":130,"costPerPiece":67.0,"totalCost":8710.0},{"id":11,"name":"Дрібний гудзик","amount":400,"costPerPiece":5.5,"totalCost":2200.0},{"id":12,"name":"Середній гудзик","amount":400,"costPerPiece":6.9,"totalCost":2760.0},{"id":13,"name":"Чорна стрічка(1м)","amount":170,"costPerPiece":18.0,"totalCost":3060.0},{"id":14,"name":"Синя стрічка(1м)","amount":170,"costPerPiece":18.0,"totalCost":3060.0},{"id":15,"name":"Червона стрічка(1м)","amount":170,"costPerPiece":18.0,"totalCost":3060.0},{"id":16,"name":"Набір срібних стразів","amount":125,"costPerPiece":35.0,"totalCost":4375.0},{"id":17,"name":"Набір коралових намистин","amount":125,"costPerPiece":35.0,"totalCost":4375.0},{"id":18,"name":"Білий перламутр","amount":80,"costPerPiece":59.0,"totalCost":4720.0},{"id":19,"name":"Рожевий перламутр","amount":80,"costPerPiece":59.0,"totalCost":4720.0},{"id":20,"name":"Бежевий перламутр","amount":80,"costPerPiece":59.0,"totalCost":4720.0}]
+[
+  {
+    "name": "Замок-блискавка",
+    "amount": 130,
+    "costPerPiece": 67.0,
+    "totalCost": 8710.0,
+    "id": "7602"
+  },
+  {
+    "name": "Дрібний металевий гудзик",
+    "amount": 400,
+    "costPerPiece": 5.5,
+    "totalCost": 2200.0,
+    "id": "1697"
+  },
+  {
+    "name": "Дрібний дерев\u0027яний гудзик",
+    "amount": 400,
+    "costPerPiece": 5.5,
+    "totalCost": 2200.0,
+    "id": "8019"
+  },
+  {
+    "name": "Середній металевий гудзик",
+    "amount": 400,
+    "costPerPiece": 6.9,
+    "totalCost": 2760.0,
+    "id": "8868"
+  },
+  {
+    "name": "Середній дерев\u0027яний гудзик",
+    "amount": 400,
+    "costPerPiece": 6.9,
+    "totalCost": 2760.0,
+    "id": "2766"
+  },
+  {
+    "name": "Золота стрічка(1м)",
+    "amount": 170,
+    "costPerPiece": 18.0,
+    "totalCost": 3060.0,
+    "id": "6678"
+  },
+  {
+    "name": "Срібна стрічка(1м)",
+    "amount": 170,
+    "costPerPiece": 28.0,
+    "totalCost": 4760.0,
+    "id": "6239"
+  },
+  {
+    "name": "Біла стрічка(1м)",
+    "amount": 170,
+    "costPerPiece": 18.0,
+    "totalCost": 3060.0,
+    "id": "9380"
+  },
+  {
+    "name": "Синя стрічка(1м)",
+    "amount": 163,
+    "costPerPiece": 18.0,
+    "totalCost": 2934.0,
+    "id": "4274"
+  },
+  {
+    "name": "Червона стрічка(1м)",
+    "amount": 170,
+    "costPerPiece": 18.0,
+    "totalCost": 3060.0,
+    "id": "2368"
+  },
+  {
+    "name": "Срібні намистини (набір)",
+    "amount": 125,
+    "costPerPiece": 35.0,
+    "totalCost": 4375.0,
+    "id": "4249"
+  },
+  {
+    "name": "Коралові намистини (набір)",
+    "amount": 125,
+    "costPerPiece": 35.0,
+    "totalCost": 4375.0,
+    "id": "9896"
+  },
+  {
+    "name": "Різнокольорові намистини (набір)",
+    "amount": 125,
+    "costPerPiece": 35.0,
+    "totalCost": 4375.0,
+    "id": "1324"
+  },
+  {
+    "name": "Різнокольорові стрази (набір)",
+    "amount": 125,
+    "costPerPiece": 35.0,
+    "totalCost": 4375.0,
+    "id": "8971"
+  },
+  {
+    "name": "Білий перламутр",
+    "amount": 80,
+    "costPerPiece": 59.0,
+    "totalCost": 4720.0,
+    "id": "4575"
+  },
+  {
+    "name": "Рожевий перламутр",
+    "amount": 80,
+    "costPerPiece": 59.0,
+    "totalCost": 4720.0,
+    "id": "2622"
+  },
+  {
+    "name": "Бежевий перламутр",
+    "amount": 68,
+    "costPerPiece": 59.0,
+    "totalCost": 4012.0,
+    "id": "8479"
+  }
+]
